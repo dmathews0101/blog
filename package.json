@@ -1,0 +1,16 @@
+{
+  "name": "blog",
+  "version": "1.0.0",
+  "description": "blog",
+  "main": "index.js",
+  "repository": "https://github.com/dawnnmathews/blog.git",
+  "author": "Dawn N Mathews <dawnmathews11@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "dev": "vuepress dev",
+    "build": "vuepress build"
+  },
+  "devDependencies": {
+    "vuepress": "^1.7.1"
+  }
+}
